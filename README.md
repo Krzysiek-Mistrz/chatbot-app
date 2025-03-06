@@ -2,8 +2,8 @@
 Prosty chatbot webowy wykorzystujący HTML, CSS (Bootstrap), JavaScript i Express.js. Aplikacja pozwala na komunikację z modelem AI za pośrednictwem API OpenAI.
 
 # Wymagania
-** Node.js **
-** NPM **
+**Node.js**
+**NPM**
 
 # Instalacja
 Sklonuj repozytorium:
@@ -47,14 +47,14 @@ Otwórz przeglądarkę i wejdź na:
 [localhost](http://localhost:3000)
 
 # Działanie
-index.html — Prosty interfejs użytkownika z polem czatu.
-main.js — Obsługuje interakcję użytkownika, wysyła zapytania do serwera.
-server.js — Backend oparty na Express.js, serwuje pliki i odbiera zapytania.
-openai.js — Moduł odpowiedzialny za komunikację z API OpenAI.
+**index.html** — Prosty interfejs użytkownika z polem czatu.
+**main.js** — Obsługuje interakcję użytkownika, wysyła zapytania do serwera.
+**server.js** — Backend oparty na Express.js, serwuje pliki i odbiera zapytania.
+**openai.js** — Moduł odpowiedzialny za komunikację z API OpenAI.
 
 # Uwagi
 Upewnij się, że config.js zawiera poprawny klucz API OpenAI.
 Nie commituj config.js do repozytorium publicznego!
 
 # Licencja
-* GNU GPL *
+*GNU GPL*
